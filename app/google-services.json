@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98015576091",
+    "project_id": "fir-batch04-f7beb",
+    "storage_bucket": "fir-batch04-f7beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98015576091:android:6471a8c4da7220be5df8be",
+        "android_client_info": {
+          "package_name": "com.sajjad.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98015576091-1ivnji9i4hkvuc1cja0m4nb5po33qnvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ktFAhSWAs3J7vvC-nvPvm3fMP0POMbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98015576091-1ivnji9i4hkvuc1cja0m4nb5po33qnvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
